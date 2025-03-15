@@ -67,7 +67,7 @@
 #define FRAC_LOW 15
 #define PAS_TIMEOUT 3000
 #define RAMP_END 1200
-#define PAS_IMP_PER_TURN 32
+#define PAS_IMP_PER_TURN 8
 
 //---------------------------------------------------------------------
 //Throttle settings
@@ -79,7 +79,7 @@
 //Speed settings
 #define WHEEL_CIRCUMFERENCE 2200
 #define GEAR_RATIO 11 //11 for BionX IGH3
-#define SPEEDLIMIT 25
+#define SPEEDLIMIT 45
 #define PULSES_PER_REVOLUTION 1
 #define SPEEDSOURCE INTERNAL
 #define SPEEDFILTER 1
